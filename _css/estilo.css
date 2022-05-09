@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    
+    width: 996px;
+    height: 616px;
+    margin-left: 180px;
+}
+
+#fotinha{
+    width: 996px;
+    height: 120px;
+    background-color: blue;
+}
+
+#tec{
+    width: 100%;
+    height: 120px;
+}
+
+#butoes{
+    height: 496px;
+    width: 120px;
+    background-color: rgb(9, 5, 46);
+}
+
+#texto{
+    height:496px;
+    width: 210px;
+    background: rgb(29, 121, 202);
+    position: relative;
+    bottom: 496px ;
+    right: 30px;
+    left: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'cida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+p{
+    font-size: 14px;
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+
+h1{
+    position: relative;
+    top: 15px;
+    text-align: center;
+}
+
+
+
+
+#videos{
+    width: 666px ;
+    height: 496px;
+    background-color: rgb(132, 98, 255);
+    position: relative;
+    bottom: 992px;
+    left: 330px;
+    
+}
+
+
+.vidus{
+    width: 333px;
+    height: 245px;
+    
+    
+}
+
+.vidus1{
+    width: 333px;
+    height: 245px;
+    position: relative;
+    left: 333px;
+    bottom: 498px  
+    
+     
+ }
+
+ #butaozinho{
+    width: 100px;
+    height: 60px;
+    position: relative;
+    left: 5%;
+    top: 38%;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 8px 5px 1px orangered;
+    background: rgb(235, 235, 240);
+
+ }
